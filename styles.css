@@ -154,13 +154,14 @@ section {
     text-decoration: underline;
 }
 
-/* Footer */
+/* Footer - Flexbox Layout */
 footer {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #333;
     color: white;
-    padding: 10px 0;
-    margin-top: 20px;
+    padding: 10px;
 }
 
 footer p {
