@@ -1,4 +1,3 @@
-# bootcamp-1
-# bootcamp-1
-# bootcamp-1
-# bootcamp-1
+Link to Personal Website:
+
+https://jacobdemory.github.io/bootcamp-1/
